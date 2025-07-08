@@ -33,7 +33,7 @@ https://t.me/Gozar_Xray
 
 Donate TRX (TRC-20) to support our project:
 ``` wallet
-TMVBGzX4qpt12R1qWsJMpT1ttoKH1kus1H
+TAkxpdTvUJRfu14d1PirM5GnQstJngXMAk
 ```
 Thanks for your support! 
     
